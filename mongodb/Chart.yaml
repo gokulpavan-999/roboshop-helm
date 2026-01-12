@@ -1,0 +1,5 @@
+apiversion: v2
+name: mongodb
+version: 1.0.0
+description: mongodb installation
+appversion: v1
